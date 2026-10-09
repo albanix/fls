@@ -1,9 +1,7 @@
 ## USAGE
 
 ```sh
-fls -> check list files on current directory. By default .
-fls -r check list of files and right
-fls -rs check list of files, right and humanize size 
+fls # - current on 0.0.1 used without arguments
 ```
 
-*project shared by license GNU GPL*
+*project shared by license GPL*
